@@ -1,0 +1,12 @@
+body {
+    padding-top: 90px;
+    padding-bottom: 40px;
+    background-color: #545454;
+}
+.form-login{
+    padding: 15px;
+}
+.login{
+    background-color: white;
+    border-radius: 7px;
+}

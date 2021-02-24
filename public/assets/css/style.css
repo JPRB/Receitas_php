@@ -1,0 +1,45 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #FFF;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #343a40;
+}
+.form_pesquisa{
+    margin-left: 49%;
+}
+.form-login{
+    padding: 15px;
+}
+.login{
+    background-color: white;
+    border-radius: 7px;
+}
+.body-login{
+    position: relative;
+    padding-top: 90px;
+    padding-bottom: 40px;
+    background: url("../images/veeterzy-82537.jpg") center center no-repeat;
+    background-size:100% auto;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+/* Tamanho Imagens nas receitas*/
+.thumbnail{
+    width: 100px;
+    height: 100px;
+    overflow: auto;
+}
